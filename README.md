@@ -7,3 +7,29 @@
 •	Shutdown option with farewell message – Implemented in shutdown.sh and os.cpp
 •	Ready queue and waiting queue scheduling – Implemented in os.cpp
 •	Resource request at startup
+
+
+Core Simulator Logic
+
+    os.cpp – Main OS simulation logic
+
+Utility Applications (Each a standalone C++ program)
+
+    calc.cpp – Calculator
+
+    calendar.cpp – Calendar display
+
+    clock.cpp – Live clock
+
+    file_creator.cpp – File creation utility
+
+    file_deleter.cpp – File deletion utility
+
+    file_renamer.cpp – File renaming utility
+
+    notepad.cpp – Notepad for text input
+
+    rng.cpp – Random number generator
+
+    sort.cpp – Sorting utility (bubble sort)
+
